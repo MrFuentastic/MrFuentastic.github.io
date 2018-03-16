@@ -598,3 +598,29 @@ ul.social-buttons {
   .btn-xl .badge {
     color: #219499;
     background-color: white; }
+
+@media (max-width: 600px) {
+  #contact-form {
+    width: 330px;
+  }
+}
+@media (min-width: 600px) {
+  #contact-form {
+    width: 500px;
+  }
+}
+@media (min-width: 900px) {
+  #contact-form {
+    width: 800px;
+  }
+}
+@media (min-width: 1200px) {
+  #contact-form {
+    width: 1100px;
+  }
+}
+@media (min-width: 450px) {
+  #vic-sig{
+    width: 450px;
+  }
+}
